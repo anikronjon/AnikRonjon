@@ -16,6 +16,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-511?&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-511?&logo=Django)
 ![AWS](https://img.shields.io/badge/-AWS-511?&logo=Amazon-AWS&logoColor=F90)
+![Git](https://img.shields.io/badge/-Git-511?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-511?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-511?&logo=Kubernetes)
 ![Selenium](https://img.shields.io/badge/-Selenium-511?logo=Selenium)
