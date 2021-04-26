@@ -7,4 +7,5 @@
   <img src="https://www.python.org/static/favicon.ico" alt="Python" />
   
 </div>
-![](https://komarev.com/ghpvc/?username=AnikRonjon)
+
+![Apt Yam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikRonjon&show_icons=true&theme=radical)
