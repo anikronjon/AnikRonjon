@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm [Anik](https://github.com/AnikRonjon)
+[![](https://raw.githubusercontent.com/AnikRonjon/AnikRonjon/master/banner.gif)](https://github.com/AnikRonjon)
 
 ### Languages
 
