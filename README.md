@@ -5,5 +5,6 @@
 
 <div align="center">
   <img src="https://www.python.org/static/favicon.ico" alt="Python" />
-  ![](https://komarev.com/ghpvc/?username=AnikRonjon)
+  
 </div>
+![](https://komarev.com/ghpvc/?username=AnikRonjon)
