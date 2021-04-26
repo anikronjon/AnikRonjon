@@ -9,4 +9,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-511?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-511?&logo=MySQL)
 
+### Technologies
+
+
+![React](https://img.shields.io/badge/-React-511?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-511?&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-511?&logo=Django)
+![AWS](https://img.shields.io/badge/-AWS-511?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-511?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-511?&logo=Kubernetes)
+![Selenium](https://img.shields.io/badge/-Selenium-511?logo=Selenium)
+![Jenkins](https://img.shields.io/badge/-Jenkins-511?logo=Jenkins)
+![Linux](https://img.shields.io/badge/-Linux-511?&logo=Linux)
+
 ![Apt Yam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnikRonjon&show_icons=true&theme=radical)
