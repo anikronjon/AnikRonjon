@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/AnikRonjon/AnikRonjon/master/banner.gif)](https://github.com/AnikRonjon)
+[![](https://raw.githubusercontent.com/AnikRonjon/AnikRonjon/master/profile.gif)](https://github.com/AnikRonjon)
 
 ### Languages
 
