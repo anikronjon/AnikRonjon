@@ -1,5 +1,6 @@
 [![](https://raw.githubusercontent.com/AnikRonjon/AnikRonjon/master/profile.gif)](https://github.com/AnikRonjon)
 [![](https://img.shields.io/badge/-Linkedin-511?&logo=Linkedin)](https://www.linkedin.com/in/anik-ronjon-barmon-95a6a6200)
+[![](https://img.shields.io/badge/-Facebook-511?&logo=Facebook)](https://www.facebook.com)
 
 ### Languages
 
