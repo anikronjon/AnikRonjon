@@ -8,6 +8,7 @@
 ![C++](https://img.shields.io/badge/-C++-511?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-511?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-511?&logo=Java&logoColor=007396)
+![Dart](https://img.shields.io/badge/-Dart-511?&logo=Dart&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-511?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-511?&logo=MySQL)
 
@@ -15,12 +16,26 @@
 
 ![Django](https://img.shields.io/badge/-Django-511?&logo=Django&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-511?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-511?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-511?&logo=express.js)
-![AWS](https://img.shields.io/badge/-AWS-511?&logo=Amazon-AWS&logoColor=F90)
+![Node](https://img.shields.io/badge/-Node.js-511?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-511?&logo=Express)
+
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-511?&logo=Postgresql&logoColor=F90)
+![MySQL](https://img.shields.io/badge/-MySQL-511?&logo=MySQL&logoColor=F90)
+![MongoDB](https://img.shields.io/badge/-MongoDB-511?&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-511?&logo=Redis&logoColor=F90)
+
+
+### Devops
+
 ![Git](https://img.shields.io/badge/-Git-511?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-511?&logo=GitHub&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-511?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-511?&logo=Kubernetes)
+![Heroku](https://img.shields.io/badge/-Heroku-511?&logo=Heroku&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-511?&logo=Amazon-AWS&logoColor=F90)
 ![Selenium](https://img.shields.io/badge/-Selenium-511?logo=Selenium)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-511?logo=Jenkins)
 ![Linux](https://img.shields.io/badge/-Linux-511?&logo=Linux)
