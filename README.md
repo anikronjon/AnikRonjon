@@ -1,26 +1,28 @@
 [![](profile.gif)](https://github.com/AnikRonjon)
 
+
 <p align="center">
-    <a href="https://www.facebook.com/anikronjon.swe"></a><img src="vendor/facebook.svg" height="40px"></a>&emsp;&emsp;
-    <a href="https://bd.linkedin.com/in/anikronjon"></a><img src="vendor/linkedin.svg" height="40px"></a>
+    <a href="https://www.facebook.com/anikronjon.swe"></a><img src="vendor/facebook.svg" height="30px"></a>&emsp;&emsp;
+    <a href="https://bd.linkedin.com/in/anikronjon"></a><img src="vendor/linkedin.svg" height="30px"></a>&emsp;&emsp;
+    <a href="https://discord.com/users/Big%20Bull#7729"></a><img src="vendor/discord.svg" height="30px"></a>
 </p>
 
 
 
 
 ### Language
-<img src="vendor/go.svg" height="40">&emsp;&emsp;
-<img src="vendor/python.svg" height="40">&emsp;&emsp;
-<img src="vendor/dart.svg" height="40">&emsp;&emsp;
-<img src="vendor/javascript.svg" height="40">&emsp;&emsp;
+<img src="vendor/go.svg" height="30">&emsp;&emsp;
+<img src="vendor/python.svg" height="30">&emsp;&emsp;
+<img src="vendor/dart.svg" height="30">&emsp;&emsp;
+<img src="vendor/javascript.svg" height="30">&emsp;&emsp;
 
 
 <br>
 
 ### Frameworks & packages
-<img src="vendor/django-icon.svg" height="40">&emsp;&emsp;
-<img src="vendor/react.svg" height="40">&emsp;&emsp;&emsp;
-<img src="vendor/flutter.svg" height="40">&emsp;&emsp;&emsp;
+<img src="vendor/django-icon.svg" height="30">&emsp;&emsp;
+<img src="vendor/react.svg" height="30">&emsp;&emsp;&emsp;
+<img src="vendor/flutter.svg" height="30">&emsp;&emsp;&emsp;
 
 ![dj-channels](https://img.shields.io/badge/-Channels-511?&logo=Websocket&logoColor=F90)
 ![dj-clery](https://img.shields.io/badge/-Celery-511?&logo=Celery&logoColor=F90)
@@ -33,20 +35,20 @@
 <br>
 
 ### Databases
-<img src="vendor/mysql.svg" height="40">&emsp;&emsp;
-<img src="vendor/postgresql.svg" height="40">&emsp;&emsp;
-<img src="vendor/redis.svg" height="40">&emsp;&emsp;
-<img src="vendor/mongodb.svg" height="40">&emsp;&emsp;
+<img src="vendor/mysql.svg" height="30">&emsp;&emsp;
+<img src="vendor/postgresql.svg" height="30">&emsp;&emsp;
+<img src="vendor/redis.svg" height="30">&emsp;&emsp;
+<img src="vendor/mongodb.svg" height="30">&emsp;&emsp;
 
 
 <br>
 
 ### Cloud
-<img src="vendor/aws.svg" height="40">&emsp;&emsp;
-<img src="vendor/microsoft-azure.svg" height="40">&emsp;&emsp;
-<img src="vendor/digital-ocean.svg" height="40">&emsp;&emsp;
-<img src="vendor/linode.svg" width="40">&emsp;&emsp;
-<img src="vendor/heroku.svg" width="40">
+<img src="vendor/aws.svg" height="30">&emsp;&emsp;
+<img src="vendor/microsoft-azure.svg" height="30">&emsp;&emsp;
+<img src="vendor/digital-ocean.svg" height="30">&emsp;&emsp;
+<img src="vendor/linode.svg" width="30">&emsp;&emsp;
+<img src="vendor/heroku.svg" width="30">
 
 
 ![Git](https://img.shields.io/badge/-Git-511?&logo=Git)
@@ -59,7 +61,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **Github Stats:**
  <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false"/>
   <a href="https://github.com/AnikRonjon">
