@@ -12,6 +12,7 @@
 
 ### Language
 <img src="vendor/go.svg" height="30">&emsp;&emsp;
+<img src="vendor/c.svg" height="33">&emsp;&emsp;
 <img src="vendor/python.svg" height="30">&emsp;&emsp;
 <img src="vendor/dart.svg" height="30">&emsp;&emsp;
 <img src="vendor/javascript.svg" height="30">&emsp;&emsp;
