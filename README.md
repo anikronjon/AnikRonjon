@@ -63,8 +63,8 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **Github Stats:**
  <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false"/>
+   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false"/>
   <a href="https://github.com/AnikRonjon">
-   <img src="https://github-readme-stats.vercel.app/api?username=AnikRonjon&show_icons=true&count_private=true">
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AnikRonjon&show_icons=true&count_private=true">
   </a>
  </p>
