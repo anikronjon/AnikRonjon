@@ -15,6 +15,7 @@
 <img src="vendor/javascript.svg" height="40">&emsp;&emsp;
 
 
+<br>
 
 ### Frameworks & packages
 <img src="vendor/django-icon.svg" height="40">&emsp;&emsp;
@@ -29,6 +30,7 @@
 ![flutter-bloc](https://img.shields.io/badge/-Bloc-511?&logo=Bloc&logoColor=F90)
 
 
+<br>
 
 ### Databases
 <img src="vendor/mysql.svg" height="40">&emsp;&emsp;
@@ -37,6 +39,7 @@
 <img src="vendor/mongodb.svg" height="40">&emsp;&emsp;
 
 
+<br>
 
 ### Cloud
 <img src="vendor/aws.svg" height="40">&emsp;&emsp;
@@ -54,6 +57,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-511?&logo=Linux)
 
 
+<br>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
  <p align="center">
