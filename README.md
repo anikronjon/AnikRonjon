@@ -62,6 +62,21 @@
 
 <br>
 
+### Code Editor
+<img src="vendor/vscode.svg" height="30">&emsp;&emsp;
+<img src="vendor/pycharm.svg" height="30">&emsp;&emsp;
+<img src="vendor/intellij-idea.svg" height="30">&emsp;&emsp;
+<img src="vendor/android.svg" height="30">&emsp;&emsp;
+<img src="vendor/vim.svg" height="30">&emsp;&emsp;
+
+![atom](https://img.shields.io/badge/-Atom-511?&logo=Atom)
+![sublimetext](https://img.shields.io/badge/-Sublimetext-511?&logo=SublimeText)
+![Nano](https://img.shields.io/badge/-Nano-511?&logo=nano)
+![codepen](https://img.shields.io/badge/-CodePen-511?&logo=CodePen)
+![replit](https://img.shields.io/badge/-Replit-511?&logo=Replit)
+
+<br>
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **Github Stats:**
  <p align="center">
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false"/>
