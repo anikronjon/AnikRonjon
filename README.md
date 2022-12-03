@@ -1,10 +1,12 @@
 [![](profile.gif)](https://github.com/AnikRonjon)
 
 
+
+
 <p align="center">
-    <a href="https://www.facebook.com/anikronjon.swe"></a><img src="vendor/facebook.svg" height="30px"></a>&emsp;&emsp;
-    <a href="https://bd.linkedin.com/in/anikronjon"></a><img src="vendor/linkedin.svg" height="30px"></a>&emsp;&emsp;
-    <a href="https://discord.com/users/Big%20Bull#7729"></a><img src="vendor/discord.svg" height="30px"></a>
+    <a href="https://www.facebook.com/anikronjon.swe" target="_blank"><img src="vendor/facebook.svg" height="30px"></a>&emsp;&emsp;
+    <a href="https://bd.linkedin.com/in/anikronjon" target="_blank"><img src="vendor/linkedin.svg" height="30px"></a>&emsp;&emsp;
+    <a href="https://discord.com/users/Big%20Bull#7729" target="_blank"><img src="vendor/discord.svg" height="30px"></a>
 </p>
 
 
