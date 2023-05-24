@@ -1,6 +1,4 @@
-[![](profile.gif)](https://github.com/AnikRonjon)
-
-
+![anikronjon banner](https://github.com/anikronjon/AnikRonjon/assets/66874940/80f06902-389a-4f95-afed-0ece9d926b98)
 
 
 <p align="center">
