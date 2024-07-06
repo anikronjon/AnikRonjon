@@ -1,6 +1,5 @@
-![anikronjon banner](https://github.com/anikronjon/AnikRonjon/assets/66874940/80f06902-389a-4f95-afed-0ece9d926b98)
-
-
+<!-- ![anikronjon banner](https://github.com/anikronjon/AnikRonjon/assets/66874940/80f06902-389a-4f95-afed-0ece9d926b98) -->
+![anikronjon banner](https://github.com/anikronjon/AnikRonjon/blob/main/vendor/LinkedIn%20Banner.png)
 <p align="center">
     <a href="https://www.facebook.com/anikronjon.swe" target="_blank"><img src="vendor/facebook.svg" height="30px"></a>&emsp;&emsp;
     <a href="https://bd.linkedin.com/in/anikronjon" target="_blank"><img src="vendor/linkedin.svg" height="30px"></a>&emsp;&emsp;
@@ -47,7 +46,7 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> **Github Stats:**
  <p align="center">
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false"/>
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikRonjon&hide_border=false&card_height=202"/>
   <a href="https://github.com/AnikRonjon">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnikRonjon&show_icons=true&count_private=true">
   </a>
